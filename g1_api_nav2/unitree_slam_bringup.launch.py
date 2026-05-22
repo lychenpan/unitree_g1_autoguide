@@ -15,7 +15,7 @@ _WS_ROOT = os.path.dirname(_G1_API_DIR)
 if _WS_ROOT not in sys.path:
     sys.path.insert(0, _WS_ROOT)
 
-from g1_api.paths import (  # noqa: E402
+from g1_api_nav2.paths import (  # noqa: E402
     MAP_YAML,
     PARAMS_YAML,
     RELOCATION_ODOM_BRIDGE,

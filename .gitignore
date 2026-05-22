@@ -50,4 +50,4 @@ logs/
 *_local.sh
 
 
-test/
+# test/

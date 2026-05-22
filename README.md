@@ -4,6 +4,8 @@ Python-only bringup for Unitree G1 SLAM + Nav2 on ROS 2 Foxy. Nav2 binaries come
 
 ## Workflow
 
+### env start: use robotenv1 to activate env.
+
 1. **Start Unitree SLAM relocation**
 
    ```bash
