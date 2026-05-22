@@ -1,0 +1,52 @@
+{
+  "timestamp_utc": "2026-03-19T11:26:56.511701Z",
+  "timestamp_local": "2026-03-19T19:26:56.511716",
+  "joint_names": [
+    "left_shoulder_pitch",
+    "left_shoulder_roll",
+    "left_shoulder_yaw",
+    "left_elbow",
+    "left_wrist_roll",
+    "left_wrist_pitch",
+    "left_wrist_yaw",
+    "right_shoulder_pitch",
+    "right_shoulder_roll",
+    "right_shoulder_yaw",
+    "right_elbow",
+    "right_wrist_roll",
+    "right_wrist_pitch",
+    "right_wrist_yaw"
+  ],
+  "joint_positions_rad": [
+    0.28973063826560974,
+    0.21073061227798462,
+    -0.02329733408987522,
+    0.9806092381477356,
+    0.03269296512007713,
+    0.07863185554742813,
+    0.008337185718119144,
+    0.291995644569397,
+    -0.21137776970863342,
+    0.024459803476929665,
+    0.9837850332260132,
+    -0.20049609243869781,
+    0.06274748593568802,
+    0.022971363738179207
+  ],
+  "joints": {
+    "left_shoulder_pitch": 0.28973063826560974,
+    "left_shoulder_roll": 0.21073061227798462,
+    "left_shoulder_yaw": -0.02329733408987522,
+    "left_elbow": 0.9806092381477356,
+    "left_wrist_roll": 0.03269296512007713,
+    "left_wrist_pitch": 0.07863185554742813,
+    "left_wrist_yaw": 0.008337185718119144,
+    "right_shoulder_pitch": 0.291995644569397,
+    "right_shoulder_roll": -0.21137776970863342,
+    "right_shoulder_yaw": 0.024459803476929665,
+    "right_elbow": 0.9837850332260132,
+    "right_wrist_roll": -0.20049609243869781,
+    "right_wrist_pitch": 0.06274748593568802,
+    "right_wrist_yaw": 0.022971363738179207
+  }
+}
